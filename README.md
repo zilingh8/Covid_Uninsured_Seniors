@@ -7,6 +7,7 @@ The goal of the project is to write a report and presentation showcasing our fin
 I have included the code I wrote for question 3 and question 4 of the project.
 
 Question 3 :What is the relationship between mortality rate, infection rate and the percentage of seniors and children living in the same household?
+
 Question 4 : How does health insurance coverage correlate with mortality rate and infection rate?
 
 
