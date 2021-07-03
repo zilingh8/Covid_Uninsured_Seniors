@@ -13,6 +13,6 @@ Question 4 : How does health insurance coverage correlate with mortality rate an
 
 The files in the repo are as follows:
 
-Covid-19 Analysis PPT : This is the slide deck we worked on as a group to present the results of our analysis
-Covid-19 Analysis Report : This is our write-up of our findings through correlation heatmaps, charts and references to any literature we used.
-Code and Datasets: You will find a Q3_Q4_plots.ipynb file of the code where I used numpy, pandas and seaborn to clean data, explore, merge tables and create visualization as well as comments on the datasets used and their components.
+* Covid-19 Analysis PPT : This is the slide deck we worked on as a group to present the results of our analysis
+* Covid-19 Analysis Report : This is our write-up of our findings through correlation heatmaps, charts and references to any literature we used.
+* Code and Datasets: You will find a Q3_Q4_plots.ipynb file of the code where I used numpy, pandas and seaborn to clean data, explore, merge tables and create visualization as well as comments on the datasets used and their components.
